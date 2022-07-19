@@ -10,7 +10,11 @@ I realized that I'm moving my fingers away from the homebrow a lot in "regular" 
 See in [Wiki Page](https://github.com/or-agami/Ergogami/wiki)
 
 ## Photos
-...
+![IMG_0911](https://user-images.githubusercontent.com/57838085/179692961-bb047fb3-33da-4653-b29d-94c90f511ec0.JPEG)
+![IMG_0916](https://user-images.githubusercontent.com/57838085/179692979-88dc1e2b-3796-4348-9575-64869e453993.JPEG)
+![IMG_0919](https://user-images.githubusercontent.com/57838085/179692922-e096a253-e40e-4e9f-9990-c3b304bf7479.JPEG)
+![IMG_0921](https://user-images.githubusercontent.com/57838085/179692945-cc72a9b8-4104-4df3-88bc-4443d927aa7b.JPEG)
+
 
 ## Credits
 ...
