@@ -7,7 +7,7 @@ Ergogami keyboard is a fully wireless split keyboard with 36 keys (Each half has
 I realized that I'm moving my fingers away from the homebrow a lot in "regular" keyboards and I tried to make a keyboard with minimal movement without compromise the keys behavior
 
 ## How:
-[Ergogami ZMK-Config](https://github.com/zmkfirmware/zmk)
+[Ergogami ZMK-Config](https://github.com/or-agami/zmk-config-ergogami)
 
 [Ergogami Ergogen files](https://github.com/or-agami/ergogen)
 
