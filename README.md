@@ -22,5 +22,7 @@ See in [Wiki Page](https://github.com/or-agami/Ergogami/wiki) -->
 
 
 
+<!-- 
 ## Credits
 ...
+-->
